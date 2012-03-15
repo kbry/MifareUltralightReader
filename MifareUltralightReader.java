@@ -1,5 +1,3 @@
-package com.volkmar.app;
-
 import android.nfc.Tag;
 import android.nfc.tech.MifareUltralight;
 import android.util.Log;
